@@ -1,0 +1,6 @@
+{
+  "name": "StyleAI Salon",
+  "description": "Try Different Hairstyles Before You Cut. Upload one photo and see multiple hairstyles on the same person.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
